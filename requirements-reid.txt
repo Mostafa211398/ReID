@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.1.0+cu118
+torchvision==0.16.0+cu118
+numpy==1.26.4
+opencv-python==4.11.0.86
+PyYAML==6.0.2
+transformers==4.46.3
+huggingface-hub==0.36.0
+safetensors==0.5.3
+Pillow==11.3.0
+yacs==0.1.8
+termcolor==2.5.0
+tabulate==0.9.0
+omegaconf==2.3.0
+iopath==0.1.10
+cloudpickle==3.1.1
+openvino==2024.6.0
+gdown==5.2.0
+open-clip-torch==2.30.0

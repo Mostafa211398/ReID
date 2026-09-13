@@ -1,0 +1,12 @@
+.runtime/
+.data/
+.env
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+test-results/
+playwright-report/

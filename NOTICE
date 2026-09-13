@@ -1,0 +1,11 @@
+IRIS RTMDet Security Monitor
+Copyright 2026 RTMDet Security Monitor contributors
+
+This product includes software developed by the OpenMMLab project and other
+open-source contributors. See THIRD_PARTY_NOTICES.md and the dependency
+lockfiles for attribution and license details.
+
+The optional CoCa ViT-B/32 checkpoint is provided by LAION and loaded through
+OpenCLIP. Its pinned revision and checksum are documented in THIRD_PARTY_NOTICES.md.
+The `coca_visual` artifact is a derived visual-tower-only checkpoint from that
+pinned model and retains the same upstream terms.
