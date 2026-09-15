@@ -4,7 +4,13 @@ torchvision==0.16.0+cu118
 numpy==1.26.4
 opencv-python==4.11.0.86
 PyYAML==6.0.2
+<<<<<<< HEAD
 transformers==4.46.3
+=======
+transformers==4.49.0
+sentencepiece==0.2.1
+protobuf==5.29.5
+>>>>>>> 370b3fd (Initial ReID application)
 huggingface-hub==0.36.0
 safetensors==0.5.3
 Pillow==11.3.0

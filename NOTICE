@@ -9,3 +9,14 @@ The optional CoCa ViT-B/32 checkpoint is provided by LAION and loaded through
 OpenCLIP. Its pinned revision and checksum are documented in THIRD_PARTY_NOTICES.md.
 The `coca_visual` artifact is a derived visual-tower-only checkpoint from that
 pinned model and retains the same upstream terms.
+<<<<<<< HEAD
+=======
+
+The optional CoCa ViT-L/14 checkpoint is provided by LAION and loaded through
+OpenCLIP. The `coca_l14_visual` artifact is derived only from its pinned visual
+tower and retains the same upstream terms.
+
+The optional SigLIP2 Base Patch16 384 checkpoint is provided by Google under
+Apache-2.0. The `siglip2_visual` artifact is derived only from that checkpoint's
+visual tower and retains the same upstream terms.
+>>>>>>> 370b3fd (Initial ReID application)
